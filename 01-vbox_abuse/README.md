@@ -1,7 +1,7 @@
 # VirtualBox abuse to execute malicious VMs
 
-(th_1-1.png)
-(th_1-2.png)
+![Alt text](th_1_1.png)
+![Alt text](th_1_2.png)
 
 ## Sigma rules
 
