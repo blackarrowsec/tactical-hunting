@@ -3,7 +3,7 @@
 (th_1-1.png)
 (th_1-2.png)
 
-## Sigam rules
+## Sigma rules
 
 ### Execution from suspicious location
 ```yaml
