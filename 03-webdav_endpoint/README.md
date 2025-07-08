@@ -1,7 +1,7 @@
 # Hunt for WebDAV search-ms abuse on endpoint
 
-![Alt text](th_3_1.svg)
-![Alt text](th_3_2.svg)
+![Alt text](th_3_1.png)
+![Alt text](th_3_2.png)
 
 ## Sigma rules
 
