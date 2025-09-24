@@ -1,7 +1,7 @@
 # App-Bound encryption bypass hunt
 
 ![Alt text](th_4_1.png)
-![Alt text](th_3_2.png)
+![Alt text](th_4_2.png)
 
 ## Sigma rules
 
