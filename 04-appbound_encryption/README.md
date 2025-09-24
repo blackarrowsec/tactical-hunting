@@ -1,4 +1,4 @@
-# App-Bound encryption bypass hunt
+# App-bound encryption bypass hunt
 
 ![Alt text](th_4_1.png)
 ![Alt text](th_4_2.png)
